@@ -3,4 +3,4 @@ pandas
 streamlit
 pip
 scikit-learn==24.3.1
-sklearn
+sklearn=24.3.1
